@@ -172,6 +172,6 @@ The project generates:
 
 # 👨‍💻 Author
 
-**Shiva**
+**Shivaprasad m s**
 
 This project was created to demonstrate practical data preprocessing and exploratory data analysis techniques using Python. If you find this project helpful, feel free to ⭐ star the repository and contribute with improvements.
